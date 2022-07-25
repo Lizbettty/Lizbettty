@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lizbettty
 - 👀 I’m interested in Data Analysis and Data Science
-- 🌱 I’m currently learning IBM
+- 🌱 I’m currently learning IBM Data Analyst Professional Certificate
 - 💞️ I’m looking to collaborate on SQL queries and ETL
 - 📫 You can get hold of me on nhuvirace@gmail.com
 
