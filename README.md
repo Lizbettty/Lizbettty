@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Lizbettty
-- 👀 I’m interested in Data Analysis and Data Science
+- 👀 I’m interested in Data Analysis and Data Science in Ecommerce, Fashion and Health.
 - 🌱 I’m currently learning IBM Data Analyst Professional Certificate
 - 💞️ I’m looking to collaborate on SQL queries and Data Warehousing procedures
 - 📫 You can get hold of me on nhuvirace@gmail.com
